@@ -1,0 +1,61 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.heading {
+  margin-top: 5rem;
+  margin-left: 40rem;
+  font-size: 3rem;
+  font-weight: 100;
+}
+
+button {
+  background-color: transparent;
+}
+
+a {
+  text-decoration: none;
+}
+
+.button-div {
+  margin-left: 18rem;
+  margin-top: 3rem;
+  display: flex;
+  align-items: center;
+  gap: 6rem;
+}
+
+.drum-img {
+  min-height: 16rem;
+}
+
+.guess-img {
+  min-height: 16rem;
+}
+.drum-btn {
+  margin-top: 2rem;
+  margin-left: 9rem;
+  padding: 1rem;
+  border-radius: 20px;
+  background-color: rgb(221, 220, 220);
+}
+
+.guess-btn {
+  margin-top: 2rem;
+  margin-left: 8rem;
+  padding: 1rem;
+  border-radius: 20px;
+  background-color: rgb(221, 220, 220);
+}
+
+/* .drums {
+  display: flex;
+  flex-direction: column;
+}
+
+.guess {
+  display: flex;
+  flex-direction: column;
+} */
